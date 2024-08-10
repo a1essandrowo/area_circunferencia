@@ -16,7 +16,7 @@ public static void main (String []args){
      * Primero obtenemos el radio y asi poder aplicar la formula 
      * agregamos "double" para cantidades con punto decimal :)
      */
-    System.out.println("Hola usuario, favor de ingresar los datos solicitantes :)");
+    System.out.println("Hola usuario, favor de ingresar los datos solicitantes :)"); //agregamos un pequeño mensaje de bienvenida
     System.out.println("Ingresa el valor del radio:");
     double radio = scan.nextDouble();
 
